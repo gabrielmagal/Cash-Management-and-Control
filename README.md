@@ -1,4 +1,4 @@
-### Cash-Management-and-Control
+# Cash-Management-and-Control
 
 This project is still under development and will undergo some updates over time.
 Feel free to use it as you see fit.
