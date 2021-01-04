@@ -6,8 +6,11 @@ There are apps like this that are paid, and maybe some free, well, that this pro
 
 Features:
 • A tab called ‘Login’, available to connect as a system manager, thus making some tabs more secure for use by administrators only.
+
 • A tab called ‘New sale’, responsible for selling products. In it we select the customer, which products he wants, the quantity, the form of payment, and some observations if necessary. In this tab we are responsible for selling in general.
+
 • A tab called ‘Products / Change Inventory’ for organization and total inventory control, applying cost price and etc.
+
 • A tab called ‘Customer Registration’, to make it easier to control which customers are ordering.
 • A tab called ‘Sales history’, identified by a pie chart to facilitate sales understanding and divided by: day, month and year.
 • A tab called ‘Financial’, available to identify how much profit has come in, how much money has been spent and to be able to include and organize how much has been spent.
