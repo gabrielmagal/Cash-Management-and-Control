@@ -30,4 +30,11 @@ You must also change the connection to the database.
 
 Credits: Gabriel Magal, Stackoverflow, Google. :D
 
-![Login](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_1.png)
+![1](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_1.png)
+![2](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_2.png)
+![3](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_3.png)
+![4](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_4.png)
+![5](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_5.png)
+![6](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_6.png)
+![7](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_7.png)
+![8](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/Screenshot_8.png)
