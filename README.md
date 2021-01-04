@@ -1,3 +1,5 @@
+![0](https://github.com/gabrielmagal/Cash-Management-and-Control/blob/main/giphy.gif)
+
 # Cash-Management-and-Control
 
 This project is still under development and will undergo some updates over time.
