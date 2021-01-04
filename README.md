@@ -4,7 +4,7 @@ This project is still under development and will undergo some updates over time.
 Feel free to use it as you see fit.
 There are apps like this that are paid, and maybe some free, well, that this project serves as a learning experience.
 
-##Features:
+# Features:
 • A tab called ‘Login’, available to connect as a system manager, thus making some tabs more secure for use by administrators only.
 
 • A tab called ‘New sale’, responsible for selling products. In it we select the customer, which products he wants, the quantity, the form of payment, and some observations if necessary. In this tab we are responsible for selling in general.
