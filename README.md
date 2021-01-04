@@ -25,4 +25,7 @@ This is the first version available of this application, I hope it helps as many
 Changes will be made soon and I will add them to the project (Without prior notice).
 Feel free to modify and use the codes!
 
+The project may have some errors, fix them and have fun.
+You must also change the connection to the database.
+
 Credits: Gabriel Magal, Stackoverflow, Google. :D
