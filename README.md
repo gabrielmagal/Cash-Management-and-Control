@@ -10,6 +10,9 @@ The project may have some errors, fix them and have fun. You must also change th
 
 Credits: Gabriel Magal, Stackoverflow, Google. :D
 
+# Compatibility:
+✅ Process on x32/x64 bit architecture.
+
 # Features:
 • A tab called ‘Login’, available to connect as a system manager, thus making some tabs more secure for use by administrators only.
 
